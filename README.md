@@ -18,7 +18,7 @@ The whole project description will be improved recently.
 
     issn = {1568-4946},
 
-    doi = { https://doi.org/10.1016/j.asoc.2022.109935 },
+    doi = {https://doi.org/10.1016/j.asoc.2022.109935},
 
     url = {https://www.sciencedirect.com/science/article/pii/S156849462200984X},
 
